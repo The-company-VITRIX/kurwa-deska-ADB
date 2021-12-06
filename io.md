@@ -1,22 +1,22 @@
-# Запускать
+# Запуск
  
-  Linux  --  python3 satana.py
+  Linux  --  python3 kurwa_deska.py
   
-  Termux --  python3 satana.py
+  Termux --  python3 kurwa_deska.py
  
-## Установка
+## Встановлення
   
-  cd Satana ADB
-  и сразу запуск
-  python3 SatanaADB.py
+  cd kurwa_deska ADB
+ і зразу запуск
+  python3 kurwa_deskaADB.py
 
-## Установка под termux
+## Встановлення під Termux
 
-  Копируете всю строку и вставляете в termux:
+  Копіюємо всю строку и вставляємо в termux:
 
   apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh -q && bash InstallTools.sh
   
-## некоторые функции могут не работать.
+## деякі функції можуть не пацювати.
 
 
 ## How to install
