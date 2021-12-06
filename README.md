@@ -1,2 +1,2 @@
-# silver-octo-guide
+встановлений захист від дурачків
 kurwa-deska
