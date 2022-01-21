@@ -567,9 +567,7 @@ def main():
 import os
 os.system("printf '\033]2;Android Remote Access\a'")
 print((" {1}[{0} + {1}]{2} Запуск ADB сервера...").format(REDL, GNSL, WHSL))
-print()
-print(" створено для хацка телефонів ліцея академічний")
-print()
+print("Не знаю чи працює")
 g = os.environ['HOME'] + '/VITRIV ADB'
 os.system("adb tcpip 5555 >> /dev/null")
 t.sleep(4)
