@@ -1,4 +1,4 @@
-# kurwa-deska-ADB
+# kurwa-deska
 kurwa-deska
 # Запуск
  
