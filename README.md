@@ -1,4 +1,4 @@
-# kurwa-deska
+# IP phone
 kurwa-deska
 # Запуск
  
