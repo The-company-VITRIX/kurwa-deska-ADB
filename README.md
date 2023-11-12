@@ -16,7 +16,7 @@ kurwa-deska
 
   Копіюємо всю строку и вставляємо в termux:
 
-  apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh -q && bash InstallTools.sh
+  apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://github.com/V1TR1V/ADB_IP_PHONE/InstallTools.sh -q && bash InstallTools.sh
   
 ## деякі функції можуть не пацювати.
 
@@ -26,10 +26,10 @@ kurwa-deska
     Silent installation:
     Copy and paste the following command in Termux to silently install Tools:
     
-    apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh -q && bash InstallTools.sh
+    apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://github.com/V1TR1V/ADB_IP_PHONE/InstallTools.sh -q && bash InstallTools.sh
     
     Common installation:
     
     Copy and paste the following command in Termux to install Tools with logs output:
-    apt update && apt install wget && wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh && bash InstallTools.sh
+    apt update && apt install wget && wget https://github.com/V1TR1V/ADB_IP_PHONE/InstallTools.sh && bash InstallTools.sh
 
